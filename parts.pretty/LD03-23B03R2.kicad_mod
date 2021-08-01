@@ -1,0 +1,13 @@
+(module LD03-23B03R2 (layer F.Cu) (tedit 60FF8499)
+  (fp_text reference REF** (at 0 0.5) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (fp_text value LD03-23B03R2 (at 0 -0.5) (layer F.Fab)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (model ${KIPRJMOD}/kicad-parts/parts.pretty/LD03-23BxxR2.stp
+    (at (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
+)
